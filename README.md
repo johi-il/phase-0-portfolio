@@ -9,7 +9,7 @@ This repository contains a personal portfolio website built with HTML and CSS. I
 
     Projects Section: Links to my projects on GitHub.
 
-    Contact Information: Ways to get in touch with me via GitHub and LinkedIn.
+    Contact Information: Ways to get in touch with me via a contact form.
 
 ### Technologies Used
 
