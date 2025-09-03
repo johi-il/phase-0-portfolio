@@ -17,6 +17,8 @@ body {
     box-shadow: 0 0 10px rgba(12, 226, 5, 0.938);
     text-align:left;
     background: url(https://images.unsplash.com/photo-1533134486753-c833f0ed4866?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+    border-radius: 10px;
 }
 h1 {
     text-decoration: wavy underline;
